@@ -1,0 +1,89 @@
+{
+  "AuthButton": {
+    "greeting": "Hey, {email}",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+  "LogoutButton": {
+    "logout": "Logout"
+  },
+  "DeployButton": {
+    "deploy": "Deploy to Vercel"
+  },
+  "EnvVarWarning": {
+    "message": "Supabase environment variables required",
+    "signInDisabled": "Sign In",
+    "signUpDisabled": "Sign Up"
+  },
+  "Hero": {
+    "title": "The fastest way to build apps with <supabase>Supabase</supabase> and <nextjs>Next.js</nextjs>"
+  },
+  "LoginForm": {
+    "title": "Login",
+    "description": "Enter your email below to login to your account",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot your password?",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "noAccount": "Don't have an account?",
+    "signUpLink": "Sign up"
+  },
+  "SignUpForm": {
+    "title": "Sign Up",
+    "description": "Create a new account",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "repeatPasswordLabel": "Repeat Password",
+    "passwordsMismatch": "Passwords do not match",
+    "creatingAccount": "Creating an account...",
+    "signUpButton": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login"
+  },
+  "ForgotPasswordForm": {
+    "checkEmailTitle": "Check Your Email",
+    "checkEmailDescription": "Password reset instructions sent",
+    "checkEmailContent": "If you registered using your email and password, you will receive a password reset email.",
+    "resetPasswordTitle": "Reset Your Password",
+    "resetPasswordDescription": "Type in your email and we'll send you a link to reset your password",
+    "sendResetEmailButton": "Send reset email",
+    "sending": "Sending...",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login"
+  },
+  "UpdatePasswordForm": {
+    "title": "Update Your Password",
+    "description": "Please enter your new password below.",
+    "newPasswordLabel": "New Password",
+    "saveButton": "Save new password",
+    "saving": "Saving..."
+  },
+  "SignUpSuccessPage": {
+    "title": "Thank you for signing up!",
+    "description": "Check your email to confirm",
+    "content": "You've successfully signed up. Please check your email to confirm your account before signing in."
+  },
+  "ErrorPage": {
+    "title": "Sorry, something went wrong.",
+    "errorCode": "Code error: {error}",
+    "unspecifiedError": "An unspecified error occurred."
+  },
+  "ProtectedPage": {
+    "info": "This is a protected page that you can only see as an authenticated user",
+    "userDetails": "Your User Details",
+    "nextSteps": "Next Steps"
+  },
+  "HomePage": {
+    "title": "Next.js Supabase Starter Kit",
+    "nextSteps": "Next Steps"
+  },
+  "Footer": {
+    "poweredBy": "Powered by"
+  },
+  "ThemeSwitcher": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}

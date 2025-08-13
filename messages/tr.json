@@ -1,0 +1,89 @@
+{
+  "AuthButton": {
+    "greeting": "Merhaba, {email}",
+    "signIn": "Giriş Yap",
+    "signUp": "Kayıt Ol"
+  },
+  "LogoutButton": {
+    "logout": "Çıkış Yap"
+  },
+  "DeployButton": {
+    "deploy": "Vercel'e Deploy Et"
+  },
+  "EnvVarWarning": {
+    "message": "Supabase ortam değişkenleri gerekli",
+    "signInDisabled": "Giriş Yap",
+    "signUpDisabled": "Kayıt Ol"
+  },
+  "Hero": {
+    "title": "<supabase>Supabase</supabase> ve <nextjs>Next.js</nextjs> ile uygulama oluşturmanın en hızlı yolu"
+  },
+  "LoginForm": {
+    "title": "Giriş Yap",
+    "description": "Hesabınıza giriş yapmak için e-postanızı girin",
+    "emailLabel": "E-posta",
+    "passwordLabel": "Şifre",
+    "forgotPassword": "Şifreni mi unuttun?",
+    "loginButton": "Giriş Yap",
+    "loggingIn": "Giriş yapılıyor...",
+    "noAccount": "Hesabın yok mu?",
+    "signUpLink": "Kayıt Ol"
+  },
+  "SignUpForm": {
+    "title": "Kayıt Ol",
+    "description": "Yeni bir hesap oluştur",
+    "emailLabel": "E-posta",
+    "passwordLabel": "Şifre",
+    "repeatPasswordLabel": "Şifreyi Tekrarla",
+    "passwordsMismatch": "Şifreler eşleşmiyor",
+    "creatingAccount": "Hesap oluşturuluyor...",
+    "signUpButton": "Kayıt Ol",
+    "haveAccount": "Zaten bir hesabın var mı?",
+    "loginLink": "Giriş Yap"
+  },
+  "ForgotPasswordForm": {
+    "checkEmailTitle": "E-postanı Kontrol Et",
+    "checkEmailDescription": "Şifre sıfırlama talimatları gönderildi",
+    "checkEmailContent": "E-posta ve şifrenizle kaydolduysanız, bir şifre sıfırlama e-postası alacaksınız.",
+    "resetPasswordTitle": "Şifreni Sıfırla",
+    "resetPasswordDescription": "E-postanızı yazın, size şifrenizi sıfırlamanız için bir bağlantı gönderelim",
+    "sendResetEmailButton": "Sıfırlama E-postası Gönder",
+    "sending": "Gönderiliyor...",
+    "haveAccount": "Zaten bir hesabın var mı?",
+    "loginLink": "Giriş Yap"
+  },
+  "UpdatePasswordForm": {
+    "title": "Şifreni Güncelle",
+    "description": "Lütfen yeni şifrenizi aşağıya girin.",
+    "newPasswordLabel": "Yeni Şifre",
+    "saveButton": "Yeni Şifreyi Kaydet",
+    "saving": "Kaydediliyor..."
+  },
+  "SignUpSuccessPage": {
+    "title": "Kayıt olduğunuz için teşekkürler!",
+    "description": "Onaylamak için e-postanızı kontrol edin",
+    "content": "Başarıyla kaydoldunuz. Lütfen giriş yapmadan önce hesabınızı onaylamak için e-postanızı kontrol edin."
+  },
+  "ErrorPage": {
+    "title": "Üzgünüz, bir şeyler ters gitti.",
+    "errorCode": "Hata kodu: {error}",
+    "unspecifiedError": "Belirtilmemiş bir hata oluştu."
+  },
+  "ProtectedPage": {
+    "info": "Bu, yalnızca kimliği doğrulanmış bir kullanıcı olarak görebileceğiniz korumalı bir sayfadır",
+    "userDetails": "Kullanıcı Detaylarınız",
+    "nextSteps": "Sonraki Adımlar"
+  },
+  "HomePage": {
+    "title": "Next.js Supabase Başlangıç Kiti",
+    "nextSteps": "Sonraki Adımlar"
+  },
+  "Footer": {
+    "poweredBy": "Altyapı:"
+  },
+  "ThemeSwitcher": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Sistem"
+  }
+}
